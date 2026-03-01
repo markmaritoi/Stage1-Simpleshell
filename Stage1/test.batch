@@ -1,0 +1,4 @@
+echo batch start
+cd /
+dir 
+echo batch end
